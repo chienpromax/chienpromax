@@ -7,13 +7,13 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chienchamchi&label=Profile%20views&color=0e75b6&style=flat" alt="chienchamchi" /> </p>
 
-- 🔭 I’m currently working on [123](123)
+- 🔭 I’m currently working on [coming](123)
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on [123](123)
+- 👯 I’m looking to collaborate on [coming](123)
 
-- 🤝 I’m looking for help with [123](123)
+- 🤝 I’m looking for help with [coming](123)
 
 - 💬 Ask me about **java**
 
