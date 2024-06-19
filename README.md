@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm chienChanChi</h1>
 <h3 align="center">A Backend developer from Viet Nam</h3>
-
+<p>
 <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
-
+<img src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chienchamchi&label=Profile%20views&color=0e75b6&style=flat" alt="chienchamchi" /> </p>
 
 - 🔭 I’m currently working on [123](123)
